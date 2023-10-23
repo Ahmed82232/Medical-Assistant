@@ -19,3 +19,4 @@ It is a graduation project on diagnosing some diseases with artificial intellige
 "# Medical-Assistant" 
 "It is a graduation project on diagnosing some diseases with artificial intelligence. It will help doctors and people do this and will make diagnosis simpler and easier." 
 "# Medical-Assistant" 
+# Medical-Assistant
